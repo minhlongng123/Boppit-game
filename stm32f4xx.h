@@ -2,7 +2,7 @@
  * stm32f4xx.h
  *
  *  Created on: May 17, 2021
- *      Author: ADMIN
+ *      Author: Minh Long Nguyen
  */
 
 #ifndef INC_STM32F4XX_H_
