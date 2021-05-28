@@ -1,2 +1,2 @@
 # Boppit-game
-GPIO learning
+GPIO of STM32F4 DISCOVERY BOARD learning
